@@ -1,0 +1,4 @@
+sudo chmod 600 dir003
+sudo chown usuario1 Dirdos
+sudo chmod 600 dir003
+sudo chmod 755 dir004
